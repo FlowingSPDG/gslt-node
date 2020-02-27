@@ -1,0 +1,21 @@
+{
+  "name": "gslt-node",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "GSLT manager package for NodeJS.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gslt"
+  ],
+  "author": "Shugo \"FlowingSPDG\" Kawamura",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^5.2.2"
+  }
+}
